@@ -1,0 +1,13 @@
+{
+  "name": "carvertical-task",
+  "version": "1.0.0",
+  "description": "We have a fresh application called carVertical (Links: Android; iOS). Download and use it for the following tasks, just let us know your device.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.8.4"
+  }
+}
